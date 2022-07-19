@@ -1,3 +1,3 @@
 # Kickstarter-Analysis
-Module 1 - Performing analysis on Kickstarter data to uncover trends
+## An Analysis of Kickstarter Campaigns
 ![KickStarter Pivot]("C:\Users\Andre\OneDrive\Documents\Rutgers Bootcamp\Module 1 - Crowdfunding Analysis\KickStarter Pivot.png")
